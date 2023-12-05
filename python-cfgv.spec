@@ -1,8 +1,8 @@
 %global pypi_name cfgv
 
 Name:           python-%{pypi_name}
-Version:        3.3.1
-Release:        2
+Version:        3.4.0
+Release:        1
 Summary:        Validate configuration and produce human readable error messages
 Group:          Development/Python
 License:        MIT
