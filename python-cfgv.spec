@@ -2,7 +2,7 @@
 
 Name:           python-%{pypi_name}
 Version:        3.4.0
-Release:        1
+Release:        2
 Summary:        Validate configuration and produce human readable error messages
 Group:          Development/Python
 License:        MIT
